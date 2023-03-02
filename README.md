@@ -6,5 +6,6 @@ Fan-Clube-Michael-Lovers </h1>
  colocamos nossos conhecimentos adquiridos na trilha de Front-End. </div>
  
  ---
- 
- <img src = "![ezgif com-video-to-gif](https://user-images.githubusercontent.com/100320094/222431755-1eedad56-3729-4d21-b720-2c4b5b91a655.gif)" width= "350" 
+ <div align = "center">
+ <img src = "![ezgif com-video-to-gif](https://user-images.githubusercontent.com/100320094/222432562-80111244-826c-40ab-b19f-37cf8751ec35.gif)" width= "350">
+ </div>
