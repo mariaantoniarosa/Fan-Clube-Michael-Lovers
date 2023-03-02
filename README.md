@@ -7,5 +7,12 @@ Fan-Clube-Michael-Lovers </h1>
  
  ---
  <p align = "center">
-<img src = "https://user-images.githubusercontent.com/100320094/222433299-3295d4e8-79df-461e-8ccf-7e2bb3355f27.gif" width = "500"
+<img src = "https://user-images.githubusercontent.com/100320094/222434865-66399341-1593-44dd-80d1-5c182afc854d.gif" width = "500">
 </p>
+
+
+---
+
+<h2 align = "left">
+Tecnologias:
+</h2>
